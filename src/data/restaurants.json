@@ -1,0 +1,6 @@
+[
+  { "id": "R1", "name": "The Luxe Grill", "rating": 4.8, "stars": 5, "cuisine": "Continental", "availableSlots": ["2025-12-01T19:00", "2025-12-01T21:00"] },
+  { "id": "R2", "name": "Bay Leaf 5★", "rating": 4.6, "stars": 5, "cuisine": "Indian", "availableSlots": ["2025-12-01T20:00", "2025-12-02T20:00"] },
+  { "id": "R3", "name": "Mariner's 5-star", "rating": 4.5, "stars": 5, "cuisine": "Seafood", "availableSlots": ["2025-12-01T18:30", "2025-12-01T20:30"] },
+  { "id": "R4", "name": "Garden Terrace", "rating": 4.2, "stars": 4, "cuisine": "Mediterranean", "availableSlots": ["2025-12-01T19:30", "2025-12-01T21:30"] }
+]

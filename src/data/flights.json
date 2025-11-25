@@ -1,0 +1,8 @@
+[
+  { "id": "F101", "airline": "AirProto", "from": "Delhi", "to": "Mumbai", "time": "08:30", "classes": ["economy","business"], "price": 120, "durationMinutes": 95 },
+  { "id": "F102", "airline": "JetSample", "from": "Delhi", "to": "Mumbai", "time": "08:45", "classes": ["economy","business"], "price": 140, "durationMinutes": 100 },
+  { "id": "F103", "airline": "SkyMock", "from": "Delhi", "to": "Mumbai", "time": "09:10", "classes": ["economy"], "price": 90, "durationMinutes": 110 },
+  { "id": "F111", "airline": "NimbusAir", "from": "Delhi", "to": "Bengaluru", "time": "07:50", "classes": ["economy","business"], "price": 150, "durationMinutes": 120 },
+  { "id": "F201", "airline": "AirProto", "from": "Mumbai", "to": "Delhi", "time": "14:00", "classes": ["economy","business","first"], "price": 220, "durationMinutes": 95 },
+  { "id": "F301", "airline": "CoastalWings", "from": "Chennai", "to": "Mumbai", "time": "13:30", "classes": ["economy","business"], "price": 110, "durationMinutes": 100 }
+]
